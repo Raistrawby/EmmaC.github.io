@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Raistrawby.github.io
 
-You can use the [editor on GitHub](https://github.com/Raistrawby/Raistrawby.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# Je suis un titre
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bonjour je suis un super test de page git
 
-### Markdown
+Le choix de la création d'une page git repose sur le fait que :
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- C'est joli
+- C'est très joli
+- Wouahou comment c'est beau
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+####################################
 
-- Bulleted
-- List
+Test Image
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+####################################
 
-[Link](url) and ![Image](src)
-```
+Test Tableau
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+####################################
 
-### Jekyll Themes
+Test Lien
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Raistrawby/Raistrawby.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+####################################
 
-### Support or Contact
+Test code
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+``` Je suis une ligne de commande ```
+
+
+Fin 
