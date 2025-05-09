@@ -1,3 +1,11 @@
-theme: jekyll-theme-cayman
-title: Super Page
-description: Emma Corre
+title: "Emma C - Portfolio"
+description: "Bioinformatics PhD Student"
+author:
+  name: "Emma C"
+  email: "ton-email@example.com"
+baseurl: "/"
+url: "https://raistrawby.github.io"
+theme: jekyll-theme-minimal
+
+# Autres options que tu peux ajouter pour personnaliser ton site
+markdown: kramdown
