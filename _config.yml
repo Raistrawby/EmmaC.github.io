@@ -3,9 +3,22 @@ description: "Bioinformatics PhD Student"
 author:
   name: "Emma C"
   email: "ton-email@example.com"
-baseurl: "/"
+baseurl: "/"  # Mettre le bon baseurl si tu utilises un sous-dossier, sinon laisse "/"
 url: "https://raistrawby.github.io"
 theme: jekyll-theme-minimal
 minimal_mistakes_skin: "mint"
-# Autres options que tu peux ajouter pour personnaliser ton site
 markdown: kramdown
+
+# Paramètres du menu de navigation
+navigation:
+  - title: "Accueil"
+    url: "/"
+  - title: "Projets"
+    url: "/projects/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Permet d'inclure les pages dans la navigation
+collections:
+  pages:
+    output: true
