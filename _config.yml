@@ -6,6 +6,6 @@ author:
 baseurl: "/"
 url: "https://raistrawby.github.io"
 theme: jekyll-theme-minimal
-
+minimal_mistakes_skin: "mint"
 # Autres options que tu peux ajouter pour personnaliser ton site
 markdown: kramdown
